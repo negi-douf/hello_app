@@ -1,24 +1,11 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Rails学習用のテストアプリです。
 
-Things you may want to cover:
+## セットアップのしかた
+hogehoge
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## 実行のしかた
+1. hoge
+1. fuga
+1. foo
